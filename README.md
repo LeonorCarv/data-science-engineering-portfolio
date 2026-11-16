@@ -1,7 +1,9 @@
 # Data Science and Engineering Portfolio
 
 **Name:** Maria Leonor Carvalho
+
 **Degree:** MSc in Data Science and Engineering, Faculty of Engineering, University of Porto (FEUP)
+
 **Previous degree:** BSc in Bioinformatics, Faculty of Sciences, University of Porto (FCUP), see my [Bioinformatics Portfolio](https://github.com/LeonorCarv/bioinformatics-portfolio)
 
 Welcome to my Data Science portfolio. This repository contains the projects I am completing during my master's degree, organised by year and course. Each project has its own folder with a README that describes the research questions, data, methods and main results, as well as instructions to reproduce the analysis. The portfolio covers data preparation, statistical inference and data visualization in Python and R, and it will be updated as the degree progresses.
