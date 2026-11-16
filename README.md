@@ -20,7 +20,7 @@ Welcome to my Data Science portfolio. This repository contains the projects I am
 ## Repository structure
 
 ```
-data-science-portfolio/
+data-science-engineering-portfolio/
 ├── README.md
 └── year-1/
     ├── data-visualization-and-preparation/
